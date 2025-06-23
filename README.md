@@ -31,10 +31,5 @@ A **pie chart** shows proportions of a whole. It is circular and divided into sl
 
 ## 🧰 Libraries Used
 
-- [`matplotlib`](https://matplotlib.org/) – For basic plotting and charting
-- [`seaborn`](https://seaborn.pydata.org/) – For enhanced statistical plots and styling
-
-Install them using:
-
-```bash
-pip install matplotlib seaborn
+- [`matplotlib`](https://matplotlib.org/) – For basic plotting and charting.
+- [`seaborn`](https://seaborn.pydata.org/) – For enhanced statistical plots and styling.
